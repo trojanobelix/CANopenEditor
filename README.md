@@ -88,27 +88,6 @@ Collaborators
 	<tbody>
 		<tr>
             <td align="center">
-                <a href="https://github.com/robincornelius">
-                    <img src="https://avatars.githubusercontent.com/u/159000?v=4" width="100;" alt="robincornelius"/>
-                    <br />
-                    <sub><b>robincornelius</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/nimrof">
-                    <img src="https://avatars.githubusercontent.com/u/9848846?v=4" width="100;" alt="nimrof"/>
-                    <br />
-                    <sub><b>nimrof</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/CANopenNode">
-                    <img src="https://avatars.githubusercontent.com/u/13575344?v=4" width="100;" alt="CANopenNode"/>
-                    <br />
-                    <sub><b>CANopenNode</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/trojanobelix">
                     <img src="https://avatars.githubusercontent.com/u/15106425?v=4" width="100;" alt="trojanobelix"/>
                     <br />
@@ -192,10 +171,10 @@ Contributors
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/cfr-mir">
-                    <img src="https://avatars.githubusercontent.com/u/44053860?v=4" width="100;" alt="cfr-mir"/>
+                <a href="https://github.com/cfrank-mir">
+                    <img src="https://avatars.githubusercontent.com/u/284268463?v=4" width="100;" alt="cfrank-mir"/>
                     <br />
-                    <sub><b>cfr-mir</b></sub>
+                    <sub><b>cfrank-mir</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -250,10 +229,10 @@ Contributors
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/DylanRobertBennett">
-                    <img src="https://avatars.githubusercontent.com/u/87715493?v=4" width="100;" alt="DylanRobertBennett"/>
+                <a href="https://github.com/Sl-Alex">
+                    <img src="https://avatars.githubusercontent.com/u/7002691?v=4" width="100;" alt="Sl-Alex"/>
                     <br />
-                    <sub><b>DylanRobertBennett</b></sub>
+                    <sub><b>Sl-Alex</b></sub>
                 </a>
             </td>
 		</tr>
